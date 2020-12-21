@@ -19,5 +19,7 @@
 2. [Video của mẫu thử](https://drive.google.com/file/d/1X9me3_-KyGK6K9DtHeUOPOo3pkFVEWr2/view?usp=sharing)
 
 3. Hướng dẫn dùng thử mẫu thử
+
 (Do mẫu thử được dựng bằng Fignma + Plugin Anima để xuất ra html, nên mẫu thử chỉ có file Unity project của bộ gõ và game được host trên server để embedded vào trang html)
+
 - [Link xem mẫu thử](https://weathered-sun-2221.animaapp.io/?show_restart=1)
