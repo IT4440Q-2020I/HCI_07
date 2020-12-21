@@ -16,9 +16,13 @@
 - HCI_07 20176126 Trần Đình Vũ
 - HCI_07 20176103 Nguyễn Bá Nam
 
-2. [Video của mẫu thử](https://drive.google.com/file/d/1X9me3_-KyGK6K9DtHeUOPOo3pkFVEWr2/view?usp=sharing)
+4. Công nghệ sử dụng
+- Figma + Anima Plugin
+- Unity Game Engine
 
-3. Hướng dẫn dùng thử mẫu thử
+3. [Video của mẫu thử](https://drive.google.com/file/d/1X9me3_-KyGK6K9DtHeUOPOo3pkFVEWr2/view?usp=sharing)
+
+4. Hướng dẫn dùng thử mẫu thử
 
 (Do mẫu thử được dựng bằng Fignma + Plugin Anima để xuất ra html, nên mẫu thử chỉ có file Unity project của bộ gõ và game được host trên server để embedded vào trang html)
 
